@@ -6,4 +6,4 @@
 
 ### Inspirations
 
-This projet was built upon inspirations from reading https://joelhooks.com/digital-garden
+This projet was built upon inspirations from reading https://joelhooks.com/developer-portfolio
